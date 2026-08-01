@@ -34,8 +34,8 @@ file — nothing else reads these marks.
 - ☑ ~~**oop.encapsulation** — Invariant-protecting fields, defensive copies — [folder](src/main/java/com/tutorials/core/oop/encapsulation)~~
 - ☑ ~~**oop.inheritance** — `extends`, `super`, constructor chaining, static method hiding vs. overriding — [folder](src/main/java/com/tutorials/core/oop/inheritance)~~
 - ☑ ~~**oop.interfaces** — Default/static/private interface methods, diamond conflict resolution — [folder](src/main/java/com/tutorials/core/oop/interfaces)~~
-- ☐ **oop.abstraction** — Abstract classes, the Template Method pattern — [folder](src/main/java/com/tutorials/core/oop/abstraction)
-- ☐ **oop.polymorphism** — Dynamic dispatch vs. compile-time overload resolution, covariant returns — [folder](src/main/java/com/tutorials/core/oop/polymorphism)
+- ~~☑ **oop.abstraction** — Abstract classes, the Template Method pattern — [folder](src/main/java/com/tutorials/core/oop/abstraction)~~
+- ☑ ~~**oop.polymorphism** — Dynamic dispatch vs. compile-time overload resolution, covariant returns — [folder](src/main/java/com/tutorials/core/oop/polymorphism)~~
 - ☐ **records** — Canonical/compact constructors, record patterns — [folder](src/main/java/com/tutorials/core/records)
 - ☐ **sealed** — Sealed interfaces/classes, exhaustive pattern-matching switch — [folder](src/main/java/com/tutorials/core/sealed)
 - ☐ **enums** — Constant-specific method bodies, `EnumMap`/`EnumSet` — [folder](src/main/java/com/tutorials/core/enums)
