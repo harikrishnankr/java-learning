@@ -10,4 +10,9 @@ public class Duck implements Flyer, Swimmer {
     public String move() {
         return Flyer.super.move() + " and " + Swimmer.super.move();
     }
+
+    public static void main(String[] args) {
+        Duck duck = new Duck();
+        System.out.println(duck.move()); // flying and swimming
+    }
 }

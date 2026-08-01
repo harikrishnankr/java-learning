@@ -18,6 +18,13 @@ public interface Shape {
     }
 
     static Shape unitCircle() {
+        // Lambda expression instead of writing 
+        // return new Shape(){
+        //     @Override
+        //     public double area() {
+        //         return Math.PI;
+        //     }
+        //}
         return () -> Math.PI; // lambda satisfying the single abstract method `area()`
     }
 }
