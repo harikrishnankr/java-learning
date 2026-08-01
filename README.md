@@ -31,7 +31,7 @@ file — nothing else reads these marks.
 
 ### 1. `com.tutorials.core` — Core OOP & modern type features
 
-- ☐ **oop.encapsulation** — Invariant-protecting fields, defensive copies — [folder](src/main/java/com/tutorials/core/oop/encapsulation)
+- ☑ ~~**oop.encapsulation** — Invariant-protecting fields, defensive copies — [folder](src/main/java/com/tutorials/core/oop/encapsulation)~~
 - ☐ **oop.inheritance** — `extends`, `super`, constructor chaining, static method hiding vs. overriding — [folder](src/main/java/com/tutorials/core/oop/inheritance)
 - ☐ **oop.interfaces** — Default/static/private interface methods, diamond conflict resolution — [folder](src/main/java/com/tutorials/core/oop/interfaces)
 - ☐ **oop.abstraction** — Abstract classes, the Template Method pattern — [folder](src/main/java/com/tutorials/core/oop/abstraction)
