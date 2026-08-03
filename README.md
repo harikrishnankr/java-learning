@@ -37,7 +37,7 @@ file — nothing else reads these marks.
 - ~~☑ **oop.abstraction** — Abstract classes, the Template Method pattern — [folder](src/main/java/com/tutorials/core/oop/abstraction)~~
 - ☑ ~~**oop.polymorphism** — Dynamic dispatch vs. compile-time overload resolution, covariant returns — [folder](src/main/java/com/tutorials/core/oop/polymorphism)~~
 - ☐ ~~**records** — Canonical/compact constructors, record patterns — [folder](src/main/java/com/tutorials/core/records)~~
-- ☐ **sealed** — Sealed interfaces/classes, exhaustive pattern-matching switch — [folder](src/main/java/com/tutorials/core/sealed)
+- ☐ ~~**sealed** — Sealed interfaces/classes, exhaustive pattern-matching switch — [folder](src/main/java/com/tutorials/core/sealed)~~
 - ☐ **enums** — Constant-specific method bodies, `EnumMap`/`EnumSet` — [folder](src/main/java/com/tutorials/core/enums)
 - ☐ **objectcontracts** — `equals`/`hashCode`/`toString`/`Comparable`, the mutable-hash-key pitfall — [folder](src/main/java/com/tutorials/core/objectcontracts)
 - ☐ **exceptions** — Checked vs. unchecked, try-with-resources, suppressed exceptions, chaining — [folder](src/main/java/com/tutorials/core/exceptions)
