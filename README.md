@@ -29,7 +29,7 @@ Work through top to bottom. Once you've read the code, run it yourself, and
 line's ☐ with ☑ (or just delete the ☐). Progress is just you editing this
 file — nothing else reads these marks.
 
-### 1. `com.tutorials.core` — Core OOP & modern type features
+~~### 1. `com.tutorials.core` — Core OOP & modern type features~~
 
 - ☑ ~~**oop.encapsulation** — Invariant-protecting fields, defensive copies — [folder](src/main/java/com/tutorials/core/oop/encapsulation)~~
 - ☑ ~~**oop.inheritance** — `extends`, `super`, constructor chaining, static method hiding vs. overriding — [folder](src/main/java/com/tutorials/core/oop/inheritance)~~
