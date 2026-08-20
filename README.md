@@ -45,7 +45,7 @@ file — nothing else reads these marks.
 ### 2. `com.tutorials.functional` — Generics, functional programming & collections
 
 - ☑ ~~**generics** — Bounded types, wildcards (PECS), generic methods, type erasure — [folder](src/main/java/com/tutorials/functional/generics)~~
-- ☐ **lambdas** — Functional interfaces, all four method reference forms, closures — [folder](src/main/java/com/tutorials/functional/lambdas)
+- ☐ ~~**lambdas** — Functional interfaces, all four method reference forms, closures — [folder](src/main/java/com/tutorials/functional/lambdas)~~
 - ☐ **streams** — Stream pipelines, `Collectors`, parallel streams — [folder](src/main/java/com/tutorials/functional/streams)
 - ☐ **optional** — `Optional` as a return-only tool: `map`/`flatMap`/`orElseThrow` — [folder](src/main/java/com/tutorials/functional/optional)
 - ☐ **collections** — Choosing `ArrayList`/`ArrayDeque`/`TreeSet`/`TreeMap`/etc. deliberately — [folder](src/main/java/com/tutorials/functional/collections)
